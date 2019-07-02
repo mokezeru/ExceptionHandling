@@ -1,6 +1,6 @@
 package com.charter.exceptionHandling.controller;
 
-import com.charter.exceptionHandling.StudentService.StudentService;
+import com.charter.exceptionHandling.service.StudentService;
 import com.charter.exceptionHandling.exception.StudentNotFoundException;
 import com.charter.exceptionHandling.model.Student;
 import org.springframework.beans.factory.annotation.Autowired;

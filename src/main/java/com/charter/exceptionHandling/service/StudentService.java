@@ -1,4 +1,4 @@
-package com.charter.exceptionHandling.StudentService;
+package com.charter.exceptionHandling.service;
 
 import com.charter.exceptionHandling.model.Student;
 

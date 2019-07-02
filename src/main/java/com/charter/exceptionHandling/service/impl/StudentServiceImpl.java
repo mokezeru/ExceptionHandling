@@ -1,6 +1,6 @@
-package com.charter.exceptionHandling.StudentService.impl;
+package com.charter.exceptionHandling.service.impl;
 
-import com.charter.exceptionHandling.StudentService.StudentService;
+import com.charter.exceptionHandling.service.StudentService;
 import com.charter.exceptionHandling.model.Student;
 import com.charter.exceptionHandling.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
